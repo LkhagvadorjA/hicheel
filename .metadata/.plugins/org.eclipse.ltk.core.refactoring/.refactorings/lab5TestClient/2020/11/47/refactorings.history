@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;home-page&apos; to &apos;container&apos;" description="Move &apos;home-page&apos; to &apos;container&apos;" destination="src/app/home-page/container" element1="src/app/home-page/home-page" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1605536806245" updateReferences="true"/>
+</session>

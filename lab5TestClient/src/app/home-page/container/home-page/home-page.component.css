@@ -1,0 +1,15 @@
+mat-button-toggle {
+	
+}
+
+mat-icon {
+	cursor: pointer;
+}
+
+.cart-container {
+	margin-top: 10px;
+}
+
+.cart {
+	font-size: 36px;
+}

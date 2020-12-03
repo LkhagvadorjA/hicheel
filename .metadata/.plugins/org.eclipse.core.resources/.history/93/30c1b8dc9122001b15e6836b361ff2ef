@@ -1,0 +1,35 @@
+import { BrowserModule } from '@angular/platform-browser';
+import {HttpClientModule} from '@angular/common/http';
+import { NgModule } from '@angular/core';
+
+import { MatSliderModule } from '@angular/material/slider';
+
+import { AppComponent } from './app.component';
+// import { HomePageComponent } from './home-page/home-page/home-page.component';
+import { RouterModule } from '@angular/router';
+import { routes } from './app-routing.module';
+import { ServiceService } from './service/service.service';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LoginContainerComponent } from './login-page/container/login-container/login-container.component';
+import { MaterialModule } from './material.module';
+import { FormsModule } from '@angular/forms';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    // HomePageComponent,
+    LoginContainerComponent,
+  ],
+  imports: [
+    BrowserModule,
+    HttpClientModule,
+    RouterModule.forRoot(routes),
+    BrowserAnimationsModule,
+    MatSliderModule,
+    MaterialModule,
+    FormsModule
+  ],
+  providers: [ServiceService],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }

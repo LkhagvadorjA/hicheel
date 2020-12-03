@@ -1,0 +1,16 @@
+import { Routes } from '@angular/router';
+import { LoginContainerComponent } from './login-page/container/login-container/login-container.component';
+export const routes: Routes = [
+
+  {
+    path: 'login-page',
+    component: LoginContainerComponent,
+    data: {title: '???? ??????'}
+  },
+  {
+    path: '',
+    redirectTo: 'login-page',
+    pathMatch: 'full'
+  },
+
+];

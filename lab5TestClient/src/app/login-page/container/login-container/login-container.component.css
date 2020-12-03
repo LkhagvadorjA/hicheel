@@ -1,0 +1,34 @@
+h2 {
+	color: green;
+}
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-outline {
+    color: black;
+}
+
+mat-card {
+	width: 50vh;
+	background: white;
+	display: flex;
+	margin: auto;
+	margin-top: 30vh;
+}
+
+.container {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+::ngdeep .mat-form-field-flex {
+	background: green !important;
+}
+
+input {
+	color: black;
+}
+
+::placeholder {
+  color: black;
+}

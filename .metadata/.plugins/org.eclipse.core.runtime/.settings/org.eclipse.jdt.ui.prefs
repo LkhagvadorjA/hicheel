@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Entity.RestEntity"><rhs name\="Entity.RestEntity"/></lhs><lhs name\="usecase.authentication.AuthenticateUserInput"><rhs name\="usecase.authentication.AuthenticateUserInput"/></lhs><lhs name\="com.example.demo.entity.RestEntity"><rhs name\="com.example.demo.entity.RestEntity"/></lhs><lhs name\="usecase.AbstractUseCase"><rhs name\="usecase.getBooksByState.GetBooksByState"/><rhs name\="usecase.book.SetBookByUserIdAndUserName"/><rhs name\="usecase.book.GetBookByUserId"/><rhs name\="usecase.book.SubscribeBookByUserId"/><rhs name\="usecase.book.GetSubscribedBook"/><rhs name\="usecase.book.DeleteSubscriptionByBookId"/></lhs><lhs name\="usecase.getBooksByState.GetBooksByState"><rhs name\="usecase.getBooksByState.GetBooksByState"/></lhs><lhs name\="usecase.book.SetBookByUserIdAndUserName"><rhs name\="usecase.book.SetBookByUserIdAndUserName"/></lhs><lhs name\="usecase.book.GetBookByUserId"><rhs name\="usecase.book.GetBookByUserId"/></lhs><lhs name\="usecase.book.SubscribeBookByUserId"><rhs name\="usecase.book.SubscribeBookByUserId"/></lhs><lhs name\="com.example.demo.transferObject.Book"><rhs name\="com.example.demo.transferObject.Book"/></lhs><lhs name\="usecase.book.GetSubscribedBook"><rhs name\="usecase.book.GetSubscribedBook"/></lhs><lhs name\="usecase.book.DeleteSubscriptionByBookId"><rhs name\="usecase.book.DeleteSubscriptionByBookId"/></lhs></history>
+content_assist_number_of_computers=19
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=19
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;material.module.ts&apos; to &apos;material.module&apos;" description="Move &apos;material.module.ts&apos; to &apos;material.module&apos;" destination="src/app/material.module" element1="src/app/material.module.ts" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1604931335747" updateReferences="true"/>
+</session>

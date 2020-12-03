@@ -1,0 +1,86 @@
+Info 0    [18:51:29.83] Format host information updated
+Info 1    [18:51:29.85] reload projects.
+Info 2    [18:51:29.85] Before ensureProjectForOpenFiles:
+Info 3    [18:51:29.85] After ensureProjectForOpenFiles:
+Info 4    [18:51:29.85] Host file extension mappings updated
+Info 5    [18:51:29.242] Search path: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/container/home-page
+Info 6    [18:51:29.246] For info: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/container/home-page/home-page.component.ts :: Config file name: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json
+Info 7    [18:51:29.247] Opened configuration file e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json
+Info 8    [18:51:29.555] Config: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json : {
+ "rootNames": [
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/e2e/src/app.e2e-spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/e2e/src/app.po.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/e2e/src/app.e2e-spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/e2e/src/app.po.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/main.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/polyfills.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/test.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/app/app-routing.module.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/app/app.component.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/app/app.component.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/app/app.module.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/environments/environment.prod.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/projects/book-table/src/environments/environment.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/main.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/polyfills.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/test.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/app-routing.module.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/app.component.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/app.component.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/app.module.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/authentication/authetication.service.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/authentication/authetication.service.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/common/book-table/book-table.component.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/common/book-table/book-table.component.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/common/notification-dialog/notification-dialog.component.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/common/notification-dialog/notification-dialog.component.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/container/home-page/home-page.component.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/container/home-page/home-page.component.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/model/book.model.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/login-page/container/login-container/login-container.component.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/login-page/container/login-container/login-container.component.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/material.module/material.module.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/service/service.service.spec.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/service/service.service.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/state management/user.model.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/state management/action/user.action.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/state management/reducer/simple.reducer.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/state management/reducer/user.reducer.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/environments/environment.prod.ts",
+  "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient",
+  "outDir": "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "typeRoots": [
+   "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json"
+ }
+}
+Info 9    [18:51:29.561] Loading global plugin @angular/language-service
+Info 10   [18:51:29.562] Enabling plugin @angular/language-service from candidate paths: c:\Users\Lkhagvaa\.p2\pool\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js,c:/Users/Lkhagvaa/.p2/pool/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [18:51:29.562] Loading @angular/language-service from c:\Users\Lkhagvaa\.p2\pool\plugins\pack.angular.win_3.6.0.202007171759\Angular.ng-template-0.1000.2-cm\server\node_modules\@angular\language-service\bundles\language-service.umd.js (resolved to c:/Users/Lkhagvaa/.p2/pool/plugins/pack.angular.win_3.6.0.202007171759/Angular.ng-template-0.1000.2-cm/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 12   [18:51:29.888] Plugin validation succeded
+Info 13   [18:51:30.350] Starting updateGraphWorker: Project: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json
+Info 14   [18:51:55.445] Finishing updateGraphWorker: Project: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json Version: 1 structureChanged: true Elapsed: 25095ms
+Info 15   [18:51:55.445] Project 'e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json' (Configured)
+Info 16   [18:51:55.446] 	Files (899)
+
+Info 17   [18:51:55.446] -----------------------------------------------
+Info 18   [18:51:55.449] Starting updateGraphWorker: Project: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json
+Info 19   [18:51:55.462] Finishing updateGraphWorker: Project: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json Version: 2 structureChanged: false Elapsed: 13ms
+Info 20   [19:13:3.586] Search path: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/container/home-page
+Info 21   [19:13:3.589] For info: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/src/app/home-page/container/home-page/home-page.component.ts :: Config file name: e:/Hicheel/hugjuulelt/lab5_test/lab5TestClient/tsconfig.json
